@@ -15,6 +15,6 @@ if (B % A == 0)
 }
 else 
 {
-    System.Console.WriteLine(B % A);
+    System.Console.WriteLine("Числа не кратны, остаток равен "  + B % A);
 }
 
